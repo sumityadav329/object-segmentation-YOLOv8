@@ -3,21 +3,21 @@
 
 # Object Instance Segmentation with YOLOv8
 
-This project demonstrates how to perform object segmentin using YOLOv8 with custom data. YOLOv8 is a state-of-the-art deep learning model for real-time object detection and segmentation.
+This project demonstrates how to perform object segmentation using YOLOv8 with custom data. YOLOv8 is a state-of-the-art deep learning model for real-time object detection and segmentation.
 
 ## FYI 
 - This notebook is prepared by me in Google Collab using free t4 gpu.
 - I uploaded the data on Google Drive and used it by mounting the drive into the collab.
 - I have downloaded the bubble dataset from roboflow `https://universe.roboflow.com/indian-institute-of-technology-guwahati/project-2-cylun/dataset/2/download`
-- The sample train images from bubble dataset
-- ![1sample](https://github.com/sumityadav329/object-segmentation-YOLOv8/assets/135656058/3c0e043e-1440-46c9-b8e6-6b5834311028)
+- The sample train image from bubble dataset
+ ![1sample](https://github.com/sumityadav329/object-segmentation-YOLOv8/assets/135656058/3c0e043e-1440-46c9-b8e6-6b5834311028)
 
 
-- Train/validation_batch image
+- Train/validation_batch images
 
-- ![train](https://github.com/sumityadav329/object-segmentation-YOLOv8/assets/135656058/709ba843-90e7-4683-975a-0b7d5fc36d57)
+ ![train](https://github.com/sumityadav329/object-segmentation-YOLOv8/assets/135656058/709ba843-90e7-4683-975a-0b7d5fc36d57)
 
-- 
+
 
 - The results: 
 
